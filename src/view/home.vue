@@ -7,7 +7,8 @@ export default {
   data() {
     return {
       a:"保存1",
-      b:"保存2"
+      b:"保存2",
+      c:"保存3"
     };
   },
 };
