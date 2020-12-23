@@ -5,7 +5,10 @@
 export default {
   name: "home.vue",
   data() {
-    return {};
+    return {
+      a:"保存1",
+      b:"保存2"
+    };
   },
 };
 </script>
